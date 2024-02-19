@@ -1,4 +1,8 @@
 # Pico_ePaper_Code
+
+## Changes:
+-(wip)Text font display
+
 ## waveshare electronics
 ![waveshare_logo.png](waveshare_logo.png)
 
